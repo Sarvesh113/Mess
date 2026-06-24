@@ -1,0 +1,6 @@
+{
+  "name": "Mess Mate",
+  "description": "A local food delivery app connecting students and single professionals with home cooks offering tiffin services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
